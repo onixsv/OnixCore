@@ -1,0 +1,12 @@
+name: OnixCore
+author: alvin0319
+main: alvin0319\OnixCore\OnixCore
+version: 1.0.0
+api: 4.0.0
+
+permissions:
+  onixcore.command.fly:
+    default: op
+
+depend:
+  - Area
